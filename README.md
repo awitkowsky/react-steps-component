@@ -36,7 +36,7 @@ Jest to prosty komponent React służący do wizualizacji „kroków” – np. 
 
 ## 🚀 Live demo
 
-🌐 *Link do wersji live (do uzupełnienia)*
+🌐 [*Link do wersji live (do uzupełnienia)*](https://awitkowsky-react-steps-component.netlify.app/)
 
 ---
 
