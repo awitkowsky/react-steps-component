@@ -26,7 +26,11 @@ Jest to prosty komponent React służący do wizualizacji „kroków” – np. 
 
 ## 📸 Podgląd
 
-📷 *Zrzut ekranu – do dodania później*
+<p align="center">
+  <img src="screenshots/ss_1.jpg" width="32%" />
+  <img src="screenshots/ss_2.jpg" width="32%" />
+  <img src="screenshots/ss_3.jpg" width="32%" />
+</p>
 
 ---
 
